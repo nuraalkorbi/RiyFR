@@ -61,7 +61,7 @@ The annotation process focused on identifying potentially deceptive and authenti
 
 RiyFR was developed by:
 
-- **Norah Alkorbi** (Lead Contributor)
+- **Norah Alkorbi** 
 - **Remas Alkhibari**
 - **Sara Alharbi**
 - **Reem Almalki**
